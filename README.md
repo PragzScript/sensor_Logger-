@@ -1,5 +1,12 @@
 # sensor_Logger- 
 # Sensor Data Logger (ESP32 + DHT22 + Light Sensor + OLED + Python Visualization)
+## Live Simulation
+
+You can view and run the project online in Wokwi:
+
+[Open in Wokwi](https://wokwi.com/projects/44894914486044569)
+
+link : https://wokwi.com/projects/44894914486044569
 
 ## Overview
 This project is a **real-time sensor data logger** using **ESP32**, a **DHT22 temperature & humidity sensor**, and a **light sensor**. It reads sensor values, displays them on an **OLED screen**, sends data via **UART**, and allows **visualization in Python**. Additionally, it can be extended to send data online to **IoT dashboards** like ThingSpeak.
