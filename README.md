@@ -5,6 +5,7 @@
 You can view and run the project online in Wokwi:
 
 [Open in Wokwi](https://wokwi.com/projects/44894914486044569)
+[Visualization in Python](https://colab.research.google.com/drive/1oKN-e_HhK1HBuJyPRxvD5DQtWc6FrRnz?authuser=0#scrollTo=N3BUszqCOE56)
 
 link : https://wokwi.com/projects/44894914486044569
 
